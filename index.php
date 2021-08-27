@@ -21,7 +21,7 @@ $register_url='users/register.php';
 $search_url='posts/search.php';
 $contact_us_url='users/contact_us.php';
 
-// Teste
+// Teste2
 session_start();
 
 include("include/navbar.php");
