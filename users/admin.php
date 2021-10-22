@@ -26,7 +26,7 @@ else {
 <body>
 
 <div class="container">
-  <h2>Admin Panel</h2>
+  <h2>Administrator Panel</h2>
   <ul class="nav nav-tabs">
     <li class="active"><a data-toggle="tab" href="#posts">Post Requests</a></li>
     <li><a data-toggle="tab" href="#acc">Account Requests</a></li>
